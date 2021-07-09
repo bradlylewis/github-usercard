@@ -44,7 +44,10 @@ const followersArray = [
   'dustinmyers',
   'justsml',
   'luishrd',
-  'bigknell'
+  'bigknell',
+  'VAIBHAVIBALAR',
+  'rickmansfield',
+  'Broveku'
 ];
 
 const followersArr = () => {
